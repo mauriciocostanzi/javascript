@@ -1,4 +1,6 @@
 # Teste para o Git#
 
 ::Inicio::
-### Linhas adicionadas
+### Linhas marcadas
+
+_Final do Ficheiro_
